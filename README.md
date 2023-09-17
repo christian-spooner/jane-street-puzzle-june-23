@@ -1,7 +1,7 @@
 This was the code I used to solve Jane Street's June 2023 puzzle 'Hooks 9'.
 
-Problem: https://www.janestreet.com/puzzles/hooks-9-index/
-Solution: https://www.janestreet.com/puzzles/hooks-9-solution/
+- Problem: https://www.janestreet.com/puzzles/hooks-9-index/
+- Solution: https://www.janestreet.com/puzzles/hooks-9-solution/
 
 Initially I wrote a python program to solve similar 'hook puzzles' on smaller
 boards based on a recursive/heuristic algorithm. However, as I increased the board
